@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- FT232R 모듈 -->
+    <usb-device vendor-id="1027" product-id="24577" />
+    <!-- CP210x 모듈 -->
+    <usb-device vendor-id="4292" product-id="60000" />
+</resources>
